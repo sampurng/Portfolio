@@ -1,2 +1,2 @@
 # Portfolio
-This is a portfolio website with cI/CD pipelines set up. 
+This is a portfolio website with CI/CD pipelines set up. 
